@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daily Zikr counter</string>
+    <string name="zikr_counter">Zikr Counter</string>
+    <string name="count">Count</string>
+    <string name="reset">Reset</string>
+    <string name="initial_count">0</string>
+    <string name="home_title">Daily Zikr Counter</string>
+    <string name="go_back">Go Back</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="faq_1_question">How is my zikr count saved</string>
+    <string name="faq_1_answer">Your count is saved automatically on your device every time you tap the count button.</string>
+    <string name="faq_2_question">How do I reset my highest score</string>
+    <string name="faq_2_answer">You can clear your highest score from the Highest Zikr page.</string>
+</resources>

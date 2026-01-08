@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_zikr_counter"
+        android:icon="@drawable/ic_home"
+        android:title="Zikr Counter" />
+    <item
+        android:id="@+id/nav_highest_zikr"
+        android:icon="@drawable/ic_star"
+        android:title="Highest Zikr" />
+    <item
+        android:id="@+id/nav_apis"
+        android:icon="@drawable/ic_api"
+        android:title="APIs" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+</menu>
